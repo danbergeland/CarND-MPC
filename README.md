@@ -1,6 +1,8 @@
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
+This project is based off code from the Udacity Self Driving Car Term2 - MPC Project hosted here in Github.  
+
 My MPC simulation in action!
 
 https://youtu.be/b4yMeSp99vo
