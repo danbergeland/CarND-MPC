@@ -23,7 +23,7 @@ size_t a_start = delta_start + N - 1;
 double ref_cte = 0;
 double ref_epsi = 0;
 //set desired velocity
-double ref_v = 120;
+double ref_v = 80;
 
 // This value assumes the model presented in the classroom is used.
 //
